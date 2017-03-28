@@ -1,11 +1,5 @@
 [
-	{
-		"nome" : "Pikachu",
-		"poder" : 30,
-		"vida" : 200,
-		"defesa" : 12
-	},
-	{
+		{
 		"nome" : "Charmander",
 		"poder" : 25,
 		"vida" : 100,
@@ -22,6 +16,12 @@
 		"poder" : 25,
 		"vida" : 150,
 		"defesa" : 10
+	},
+	{
+		"nome" : "Pikachu",
+		"poder" : 30,
+		"vida" : 200,
+		"defesa" : 12
 	},
 	{
 		"nome" : "Caterpie",
