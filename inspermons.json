@@ -1,0 +1,17 @@
+[
+	{
+		"poder" : 20,
+		"vida" : 200,
+		"defesa" : 12
+	},
+	{
+		"nome" : "xamando",
+		"poder" : 25,
+		"vida" : 100,
+		"defesa" : 10
+	},
+	{
+		"nome" : "pidijet",
+		"vida" : 300,
+	}
+]
