@@ -1,20 +1,75 @@
 [
 	{
-		"nome" : "picaxu",
-		"poder" : 20,
+		"nome" : "Pikachu",
+		"poder" : 30,
 		"vida" : 200,
 		"defesa" : 12
 	},
 	{
-		"nome" : "xamando",
+		"nome" : "Charmander",
 		"poder" : 25,
 		"vida" : 100,
 		"defesa" : 10
 	},
 	{
-		"nome" : "pidijet",
-		"poder" : 15,
-		"vida" : 300,
+		"nome" : "Squirtle",
+		"poder" : 25,
+		"vida" : 200,
 		"defesa" : 10
+	},
+	{
+		"nome" : "Bulbasaur",
+		"poder" : 25,
+		"vida" : 150,
+		"defesa" : 10
+	},
+	{
+		"nome" : "Caterpie",
+		"poder" : 20,
+		"vida" : 100,
+		"defesa" : 5
+	},
+	{
+		"nome" : "Pidgey",
+		"poder" : 20,
+		"vida" : 100,
+		"defesa" : 10
+	},
+	{
+		"nome" : "Weedle",
+		"poder" : 20,
+		"vida" : 100,
+		"defesa" : 5
+	},
+	{
+		"nome" : "Ratata",
+		"poder" : 20,
+		"vida" : 100,
+		"defesa" : 12
+	},
+	{
+		"nome" : "Spearow",
+		"poder" : 22,
+		"vida" : 120,
+		"defesa" : 10
+	},
+	{
+		"nome" : "Ekans",
+		"poder" : 24,
+		"vida" : 150,
+		"defesa" : 12
+	},
+	{
+		"nome" : "Sandshrew",
+		"poder" : 23,
+		"vida" : 100,
+		"defesa" : 13
+	},
+	{
+		"nome" : "Snorlax",
+		"poder" : 20,
+		"vida" : 500,
+		"defesa" : 20
 	}
+
 ]
